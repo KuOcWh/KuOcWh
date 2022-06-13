@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuOcWh
-- 👀 I’m interested in ... learning to code, Football⚽, Crypto. Meeting new friends
-- 🌱 I’m currently learning ... HTML, CSS and Responsive Web design.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... improving my coding ability, Football⚽, Crypto, Meeting new friends
+- 🌱 I’m currently learning ... JavaScript, OOP, API's and TailwindCSS
+- 💞️ I’m looking to collaborate on ... anything exciting or educational
 - 📫 How to reach me ... kdoescoding@gmail.com
 
 <!---
