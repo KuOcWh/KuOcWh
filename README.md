@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @KuOcWh
-- 👀 I’m interested in ... improving my coding ability, Football⚽, Crypto, Meeting new friends
-- 🌱 I’m currently learning ... JavaScript, OOP, API's and TailwindCSS
+- 👋 Hi, my name is Kurtis. I am a freelance Software Developer @ #100Devs
+- 👀 I’m interested in ... growing my client base, improving my coding and growing as a person and developer
+- 🌱 I’m currently learning ... JavaScript, OOP and API's
 - 💞️ I’m looking to collaborate on ... anything exciting or educational
-- 📫 How to reach me ... kdoescoding@gmail.com
+- 📫 How to reach me ... kurtis@kdoescoding.com
 
-<!---
-KuOcWh/KuOcWh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
